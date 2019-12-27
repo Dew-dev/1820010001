@@ -2,4 +2,4 @@ NO.REG		: 1820010001
 Nama		: Abdurojak
 Jurusan		: TI-NextG SE
 Angkatan	: 2018
-Complete
+Completea
